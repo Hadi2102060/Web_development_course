@@ -1,0 +1,5 @@
+Class ----- means ak doroner property jodi akadhik element ke dita chai tahole amra multiple class diye dibo
+
+For Example: 
+
+ak doroner class jemon RED class ami "form" er jnno dita parbo and "div" er jonno o dita parbo
