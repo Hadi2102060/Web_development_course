@@ -1,0 +1,29 @@
+Block Elements (Most commonly used first)
+
+<div>: A generic container for flow content.
+<p> : Paragraph
+<h1>,<h2>, <h3>, <h4>, <h5>,<h6> : Heading
+<ul> : Unordered  List
+<ol> : Ordered List
+<li> : List items.
+<form> : A section containing form controls.
+<table> : Table.
+<section> : A standalone section of a document.
+<header> :  A container for introductory content or a set of navigational links.
+<footer> : Footer of a section or page.
+<nav> :  A section of a page that contains  navigation links.
+<article> : A self-contain composition in a document.
+<aside> : A section of a page that contains information indirectly related to the main.
+<main> : The main content of a document.
+<fieldSet> : A set of form controls grouped under a common name.
+<blockquote> : A block of text that is a quotation from another source.
+<pre> : Preformatted text.
+<canvas> : A container used to draw graphics via JavaScript.
+<dl> : Description List.
+<dt> :  Term in a Description List.
+<dd> : Description in a Description List.
+<figure> : Any content that is referenced from the main content.
+<figCaption> : A caption for  a <figure> element.
+<address> : Contact information for the author or owner of the document.
+<hr> : A thematic break or a horizontal rule.
+<tfoot> : Footer fo a table.
